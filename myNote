@@ -1,0 +1,30 @@
+
+Torch install problem:
+1. when install LUA5.2, "readline" not found
+-> install libreadline-dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
